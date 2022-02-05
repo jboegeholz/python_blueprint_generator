@@ -1,0 +1,4 @@
+pytest
+pbr
+wheel
+twine
